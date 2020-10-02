@@ -1,5 +1,9 @@
 # PostsApp
 
+## Learn angular 6 in 60 minutes
+
+This sample app was built following https://www.youtube.com/watch?v=z4JUm0Bq9AM
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
